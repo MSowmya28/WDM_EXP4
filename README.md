@@ -65,4 +65,3 @@ Thus the Implementation of Cluster and Visitor Segmentation for Navigation patte
 
 
 
-### Result:
